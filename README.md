@@ -18,8 +18,6 @@ V3 3d: models (printables)
 
 https://www.thingiverse.com/thing:6273114
 
-https://skfb.ly/oMzWV
-
 Ingredientes (Ingredients):
 
 1 - Arduino Pro micro (Atmel Mega32U4)
