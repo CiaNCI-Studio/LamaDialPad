@@ -16,7 +16,11 @@ Works elegantly with Godot ;)
 
 V3 3d: models (printables)
 
-https://www.thingiverse.com/thing:6273114
+[https://www.thingiverse.com/thing:6273114](https://www.thingiverse.com/thing:6328766)
+
+Montagem (Assembly):
+
+https://youtu.be/9i33bibWsXI
 
 Ingredientes (Ingredients):
 
